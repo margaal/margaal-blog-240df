@@ -2,6 +2,6 @@
 title: Blog
 subtitle: Articles about Data Science
 hide_title: false
-col_number: two
+col_number: three
 template: blog
 ---
