@@ -26,7 +26,7 @@ sections:
         options:
           - Error on the site
           - Question
-          - Other
+          - Proposal
       - input_type: textarea
         name: message
         label: Message
