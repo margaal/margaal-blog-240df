@@ -6,12 +6,6 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    col_number: three
-    testimonials: []
-    type: section_testimonials
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: two
     is_numbered: false
     grid_items:
