@@ -49,7 +49,7 @@ sections:
       time. Don't forget to follow me on Twitter to receive notifications of any
       relevant events on my blog. Thank you
     actions:
-      - label: Let's talk
+      - label: ''
         url: /contact
         style: button
   - section_id: latest-projects
