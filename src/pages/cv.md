@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - title: SEBLE M. Marcelin
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Passion
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
