@@ -1,7 +1,7 @@
 ---
 title: Project
 subtitle: My relevant works
-layout_style: tiles
+layout_style: mosaic
 template: portfolio
 excerpt: ''
 ---
