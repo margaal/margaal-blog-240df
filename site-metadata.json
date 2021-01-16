@@ -1,9 +1,9 @@
 {
-    "description": "A portfolio theme with a blog",
+    "description": "MARGAAL is a website about Data Science. We can found articles and projects which are talking about Data Science",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
-        "title": "Exto",
+        "title": "MARGAAL",
         "has_nav": true,
         "nav_links": [
             {
@@ -12,22 +12,17 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "Project",
+                "url": "/project/",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "About Me",
                 "url": "/about/",
                 "style": "link"
             },
@@ -36,41 +31,36 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img_alt": "Margaal blog"
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; MARGAAL All rights reserved.",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/margaal89",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "Github",
+                "url": "https://github.com/margaal",
                 "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon_class": "fa-dribbble",
+                "icon_class": "fa-github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/margaal/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
             }
         ]
     },
-    "title": "Stackbit Exto Theme"
+    "title": "Stackbit Exto Theme",
+    "favicon": "images/favicon.ico"
 }
