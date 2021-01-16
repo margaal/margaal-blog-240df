@@ -27,6 +27,7 @@ sections:
           - Error on the site
           - Question
           - Proposal
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
