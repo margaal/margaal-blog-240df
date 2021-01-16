@@ -1,6 +1,6 @@
 ---
 title: Project
-subtitle: My relevant work
+subtitle: My relevant works
 layout_style: mosaic
 template: portfolio
 ---
