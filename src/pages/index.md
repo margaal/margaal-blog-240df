@@ -33,7 +33,7 @@ sections:
 
       *   **About me:**
 
-           I put here my education, my experience and my awards.
+          I put here my education, my experience and my awards.
 
       <!---->
 
