@@ -11,14 +11,13 @@ sections:
       ## Education
 
 
-      *   2020-2021:
-          *   Master degree in Data Science at Sorbonne University (France)*
+      *   2020-2021: 
 
-      <!---->
+          *Master degree in Data Science at Sorbonne University (France)*
 
+      *   2019-2020
 
-      *   2019-2020:
-          *   Bachelor degree in Computer Science at ULCO (France)*
+          *: Bachelor degree in Computer Science at ULCO (France)*
 
       ## Certificate
 
