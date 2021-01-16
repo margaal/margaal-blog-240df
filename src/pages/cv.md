@@ -3,7 +3,7 @@ title: About Me
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: SEBLE M. Marcelin
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
