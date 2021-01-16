@@ -50,7 +50,7 @@ sections:
       relevant events on my blog. Thank you
     actions:
       - label: About me
-        url: /contact
+        url: /
         style: button
   - section_id: latest-projects
     type: section_portfolio
