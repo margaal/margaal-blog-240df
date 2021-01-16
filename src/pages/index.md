@@ -18,32 +18,26 @@ sections:
       let me describe the parts of the website for you:
 
 
-      *   Blog: I can say this is the main part of MARGAAL, because it is here
-      that I share with you and learn from you. You can read all the articles I
-      write there.
-
+      *   **Blog:**
+           I can say this is the main part of MARGAAL, because it is here that I share with you and learn from you. You can read all the articles I write there.
 
       <!---->
 
 
-      *   Project: This place allows me to talk about my projects such as my
-      personal or school projects that I find relevant or others that you would
-      suggest to me. Yeah! you read that right, i will be happy to receive your
-      proposals for project ideas, i think it would be a good challenge for me.
-
+      *   **Project: **
+          This place allows me to talk about my projects such as my personal or school projects that I find relevant or others that you would suggest to me. Yeah! you read that right, i will be happy to receive your proposals for project ideas, i think it would be a good challenge for me.
 
       <!---->
 
 
-      *   About me: I put here my education, my experience and my awards.
-
+      *   **About me:**
+           I put here my education, my experience and my awards.
 
       <!---->
 
 
-      *   Contact: if you have any questions or suggestions, please write to me
-      and I will do my best to answer you as soon as possible.
-
+      *   **Contact:**
+           if you have any questions or suggestions, please write to me and I will do my best to answer you as soon as possible.
 
       **Good!!!** I think you will have fun on my website and come back next
       time. Don't forget to follow me on Twitter to receive notifications of any
