@@ -26,14 +26,14 @@ sections:
 
 
       *   **Project:**
-           This place allows me to talk about my projects such as my personal or school projects that I find relevant or others that you would suggest to me. Yeah! you read that right, i will be happy to receive your proposals for project ideas, i think it would be a good challenge for me.
+          This place allows me to talk about my projects such as my personal or school projects that I find relevant or others that you would suggest to me. Yeah! you read that right, i will be happy to receive your proposals for project ideas, i think it would be a good challenge for me.
 
       <!---->
 
 
       *   **About me:**
 
-          I put here my education, my experience and my awards.
+           I put here my education, my experience and my awards.
 
       <!---->
 
