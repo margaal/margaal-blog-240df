@@ -1,6 +1,6 @@
 {
     "description": "MARGAAL is a website about Data Science. We can found articles and projects which are talking about Data Science",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
         "title": "MARGAAL",
