@@ -7,40 +7,30 @@ sections:
     section_id: lorem-ipsum
     subtitle: Passionate about Data Science.
     image_alt: lorem-ipsum
-    content: >
+    content: |
       ## Education
 
+      *   2020-2021: 
 
-      *   2020-2021:
+          *Master degree in Data Science at Sorbonne University (France)*
 
-          * *
+      <!---->
 
-      *Master degree in Data Science at Sorbonne University (France)*
+      *   2019-2020: 
 
-
-      *   2019-2020
-
-          *: *
-
-      *Bachelor degree in Computer Science at ULCO (France)*
-
+          *Bachelor degree in Computer Science at ULCO (France)*
 
       ## Certificate
 
-
       *   Google analytics (2020-2021)
-
 
       ## Language skills
 
+      *   English (ILR Level 3)
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   French (ILR level 5)
 
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
+      *   German (ILR level 1)
     actions: []
     type: section_content
 template: advanced
