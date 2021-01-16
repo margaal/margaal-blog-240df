@@ -25,10 +25,10 @@ sections:
       ## Experience
 
 
-      During my internship at Atlantic Telecom Togo, I was able to work on the
+      During my internship at *Atlantic Telecom Togo,* I was able to work on the
       design and deployment of an *OLAP(OnLine Analytical Processing) cube*.
-      Design of a web application to study the behavior of telephone subscribers
-      from the transactions they carry out
+      Design of a web application to study the behaviour of telephone
+      subscribers from the transactions they carry out
 
 
       ## Certificate
@@ -47,6 +47,9 @@ sections:
 
 
       *   German (ILR level 1)
+
+
+      *\*ILR: Interagency Language Roundtable Scale*
     actions: []
     type: section_content
 template: advanced
