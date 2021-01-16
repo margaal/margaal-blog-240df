@@ -2,6 +2,12 @@
 title: About Me
 hide_title: false
 excerpt: lorem-ipsum
-sections: []
+sections:
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    testimonials: []
+    type: section_testimonials
 template: advanced
 ---
