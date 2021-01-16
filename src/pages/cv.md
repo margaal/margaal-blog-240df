@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - title: SEBLE M. Marcelin
     section_id: lorem-ipsum
-    subtitle: Passion
+    subtitle: Passionate about Data Science.
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
