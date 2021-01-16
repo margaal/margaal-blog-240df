@@ -4,6 +4,7 @@ subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 template: page
+image: images/11.jpg
 ---
 ## Lorem ipsum
 
