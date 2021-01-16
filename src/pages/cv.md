@@ -49,7 +49,7 @@ sections:
       *   German (ILR level 1)
 
 
-      *\\*ILR: Interagency Language Roundtable Scale*
+      \**ILR: Interagency Language Roundtable Scale*
     actions: []
     type: section_content
 template: advanced
